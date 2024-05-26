@@ -104,28 +104,7 @@ fun DisplayQuestion() {
     }
 
 
-//@Composable
-//fun DisplayOptions() {
 
-//}
-
-//@Composable
-//fun DisplayOptions() {
-//    val quiz = Quiz()
-//    val question = quiz.getQuestion()
-//    val options = question.options
-//    Column() {
-//            Text(question.question)
-//            {
-//                options.forEach { option ->
-
-//                    {
-
-//                    }
-//                }
-//            }
-//    }
-//}
 
 
 @Preview(showBackground = true)
